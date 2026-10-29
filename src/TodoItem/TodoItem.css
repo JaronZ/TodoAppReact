@@ -1,0 +1,12 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgray;
+    padding: 10px 30px;
+}
+
+.todo-buttons {
+    display: flex;
+    gap: 10px;
+}

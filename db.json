@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": "CrDm7UKGws0",
+      "name": "Feed my shoe",
+      "dueDate": "",
+      "description": "I must feed my shoe, otherwise it is going to kill me. It demands food each year!\n\nA wizard turned my shoe sentient and because I treated it poorly for a long time, it decided to kill me unless it gets fed at least once a year."
+    },
+    {
+      "id": "QXm1BHoQ7Ew",
+      "name": "Roast the chicken",
+      "dueDate": "2026-10-30",
+      "description": "I need to make a roast of my chicken. The song should be at least 1 minute."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
